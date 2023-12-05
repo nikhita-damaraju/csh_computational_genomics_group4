@@ -6,8 +6,8 @@ Repository for all scripts and software written by Group 4 as a part of CSHL Com
 2. Peak calling with Macs2
 3. Comparison of published ATAC with chromap processed ATAC
 4. Other alignment processes
-   a. STAR
-   b. Salmon
-   c. Bowtie2
+   * STAR
+   * Salmon
+   * Bowtie2
 5. Differential expression analysis for RNA-seq analysis using published read counts
 
