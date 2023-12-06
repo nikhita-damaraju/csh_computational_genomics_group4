@@ -11,3 +11,5 @@ Repository for all scripts and software written by Group 4 as a part of CSHL Com
    * Bowtie2
 5. Differential expression analysis for RNA-seq analysis using published read counts
 
+## Dataset:
+
